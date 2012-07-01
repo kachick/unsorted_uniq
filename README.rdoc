@@ -1,0 +1,34 @@
+= unsorted_uniq
+
+
+== Description
+
+A tiny tool for text formatting
+
+== Futures
+
+
+== Usage
+
+    > ruby unsorted_uniq.rb < verbose.txt
+
+    > ruby unsorted_uniq_files.rb verbose.txt [*verbose.txt]
+
+== Requirements
+
+* Ruby 1.9.3 or later
+  
+  Focusing
+  
+  * 1.9.3-p194
+
+== Installation
+
+
+== License
+
+The MIT/X License
+
+Copyright (c) 2012 Kenichi Kamiya
+
+See the file LICENSE for further details.
