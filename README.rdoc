@@ -1,5 +1,9 @@
 = unsorted_uniq
 
+* <em><b>This repository is archived</b></em>
+* <em><b>No longer maintained</b></em>
+
+I didn't publish this project to https://rubygems.org as a gem
 
 == Description
 
@@ -21,9 +25,6 @@ A tiny tool for text formatting
   Focusing
   
   * 1.9.3-p194
-
-== Installation
-
 
 == License
 
